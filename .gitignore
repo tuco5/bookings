@@ -1,0 +1,55 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the 'go' tool
+*.out
+
+# Dependency directories (remove the comment if you use Go modules)
+# /vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Node.js dependency directory for front-end development
+node_modules/
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
+
+# Environment variables
+.env
+
+# Private key files
+*.key
+*.pem
+
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# Go tools
+/go/bin/
+/go/pkg/
+
+# IntelliJ IDEA
+/.idea/
+
+# Visual Studio Code
+/.vscode/
